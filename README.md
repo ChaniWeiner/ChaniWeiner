@@ -1,16 +1,19 @@
-## Hi there 👋
+About Me :)
+Hi there! I'm Chani Weiner, a passionate software developer who loves working on diverse software applications and creating impactful solutions. 🚀
 
-<!--
-**ChaniWeiner/ChaniWeiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I Do
+Full-Stack Development: I enjoy working on both front-end and back-end technologies to build complete, functional, and user-friendly applications.
+Software Development: I work with a variety of software tools and technologies to bring ideas to life and solve real-world problems.
+Technologies I Love:
+Frontend: React, Next.js, TypeScript
+Backend: Node.js, MongoDB, Prisma
+Programming Languages: C#, C++, JavaScript
+Other Tools: Cloudinary, Nodemailer, and more!
+Creative Problem Solving: I thrive on solving challenging problems and turning ideas into functional solutions.
+🌟 My Projects
+I’m always working on exciting projects, from event management applications to custom APIs. Check out my repositories to see my latest work!
 
-Here are some ideas to get you started:
+✉️ Let's Connect!
+Email: chani03630@gmail.com
+GitHub: ChaniWeiner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
